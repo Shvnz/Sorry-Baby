@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Protest Riot", sans-serif;
+  box-sizing: border-box;
+cursor: url(https://ani.cursors-4u.net/symbols/sym-9/sym840.ani), url(https://ani.cursors-4u.net/symbols/sym-9/sym840.png), auto !important;}</style><a href="https://www.cursors-4u.com/cursor/2018/02/17/flowing-hearts.html" target="_blank" title="Flowing Hearts"><img src="https://cur.cursors-4u.net/cursor.png" border="0" alt="Flowing Hearts" style="position:absolute; top: 0px; right: 0px;" /></a>
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Comic Sans MS', cursive, sans-serif; /* Cute and playful font */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #ffecf2; /* Soft pink background */
+  cursor: url('heart-cursor.png'), auto; /* Use heart cursor */
+}
+
+.container {
+  text-align: center;
+}
+
+h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+  color: #ff69b4; /* Pink color for the heading */
+}
+
+.button-container {
+  margin-top: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: #ffb6c1; /* Light pink button */
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  margin: 0 10px;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #ff8c9c; /* Darker pink on hover */
+}
+
+.gif-container {
+  margin-top: 20px;
+}
+
+#result {
+  font-size: 24px;
+  margin-top: 20px;
+  color: #ff1493; /* Hot pink color for the result */
+}
